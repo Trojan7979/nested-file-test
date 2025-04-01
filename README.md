@@ -1,2 +1,2 @@
 # nested-file-test
-To test multi-file handling with identical in different packages/ directories
+To test multi-file handling with identical names in different packages/ directories
